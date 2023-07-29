@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import Greeting from './components/greeetings';
+import Greeting from './components/greetings';
 
 function App() {
   return (
